@@ -1,0 +1,9 @@
+**/dataset/
+**/output/
+*.pdf
+**/output_old/
+**/par/
+**/dataset/
+**/cifar10h-raw/
+**/__pycache__/
+**/.cph/
